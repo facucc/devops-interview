@@ -5,7 +5,7 @@ services:
     build:      
       context: .
       dockerfile: Dockerfile
-    image: frontend:1
+    image: "frontend:${TAG}"
     container_name: container-frontend
     restart: always    
     ports:
