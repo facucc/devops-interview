@@ -1,0 +1,14 @@
+version: '3.7'
+
+services:
+  frontend:    
+    build:      
+      context: .
+      dockerfile: Dockerfile
+    image: frontend:1
+    container_name: container-frontend
+    restart: always    
+    ports:
+      - "3000:3000"
+      
+       
