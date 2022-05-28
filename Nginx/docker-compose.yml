@@ -1,0 +1,12 @@
+version: '3.7'
+
+services:
+  nginx-deploy:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: "nginx_deploy:${TAG}"
+    container_name: container-nginx_deploy
+    restart: always
+    ports:
+      - "8800:80"
