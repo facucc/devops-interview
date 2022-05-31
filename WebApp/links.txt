@@ -1,0 +1,8 @@
+https://platzi.com/blog/django-docker/
+https://stackoverflow.com/questions/19128540/django-improperlyconfigured-the-secret-key-setting-must-not-be-empty
+https://stackoverflow.com/questions/7382149/whats-the-purpose-of-django-setting-secret-key
+https://milanwittpohl.com/projects/tutorials/Full-Stack-Web-App/dockerizing-our-front-and-backend
+https://lifesaver.codes/answer/installing-psycopg2-binary-with-python-3-6-4-alpine-doesn-t-work-684
+https://pygraphviz.github.io/documentation/stable/install.html
+https://1984.lsi.us.es/wiki-egc/index.php/Ejercicio_2:_Ejecutando_decide_en_docker-compose
+https://stackoverflow.com/questions/33816456/how-to-tag-docker-image-with-docker-compose
